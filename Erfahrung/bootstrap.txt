@@ -1,0 +1,6 @@
+9-1-bootstrap4:
+npm install bootstrap
+raftan be src/style.css
+@import 'dist/css/bootstrap.min.css';
+raftan be file node-module>yaftane bootstrap>r-click>get path>..."node-module/" az adres hazf shavad va "/"
+

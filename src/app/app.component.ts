@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngDatatable';
+  input1 : String = "...";
+
+  dingendAenderung(eintrag1 : String){
+    this.input1=eintrag1;
+  }
 }

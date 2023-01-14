@@ -1,0 +1,8 @@
+1-nasbe nodeJs             chek:node -v
+2-nasbe Angular CLI        check:npm help
+
+3-raften be folderi ke mikhahim va dar navare adres zadane CMD
+4-sakhte proje jadid:   ng new myProje                ....javabe soaalat NO,CSS
+
+4-2  +++ng new myProjekt --routing
+digar routing nemiporsad baraye routing

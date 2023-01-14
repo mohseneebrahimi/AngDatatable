@@ -1,0 +1,6 @@
+site :                           https://bulma.io
+
+dar "cmd dakhele VS-code"  ya dar "cmd addi" 
+npm install bulma
+
+raften be ghesmate Node_Mo

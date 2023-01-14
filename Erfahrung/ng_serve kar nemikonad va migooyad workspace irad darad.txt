@@ -1,0 +1,9 @@
+Error: This command is not available when running the Angular CLI outside a workspace.
+
+Do Right-Click on yours project name in VS Code and Click “Open in Integrated Terminal” Option.
+
+
+
+migooyad ng serve anjam nemishavad vaghti dar work space nisti
+
+cmd rooye adres doros zade nashode....bayad tooye folder miraftim

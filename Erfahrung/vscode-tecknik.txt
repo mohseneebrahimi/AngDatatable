@@ -1,0 +1,12 @@
+1.copy one line in vscode
+shift+Alt+ up
+shift+Alt+ Down
+
+2-bala pain bordane yek khat
+Alt+ up,down
+
+3-edit multiline
+ctrl+Alt + up,down
+
+4-arrange
+shift+alt+ F

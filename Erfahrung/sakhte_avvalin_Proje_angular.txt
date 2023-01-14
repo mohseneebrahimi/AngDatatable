@@ -1,0 +1,40 @@
+1-nasbe nodeJs             chek:node -v
+2-nasbe Angular CLI        check:npm help
+
+3-raften be folderi ke mikhahim va dar navare adres zadane CMD
+4-sakhte proje jadid:   ng new myProje                ....javabe soaalat NO,CSS
+
+4-2  +++ng new myProjekt --routing
+digar routing nemiporsad baraye routing
+
+5- nasbe maven.....tarif M2-HOME Dar envirenment variable.... baraye spring boot
+6-bala avardane proje:
+raften be directory doros shode > CMD >code .
+ke barname ra dar vs code baz konad
+7.start app server node Js:  ng serve
+dar terminale VS code > terminale command prompt mizanim: ng serve
+
+8-moshahede safheye avvale Node dar browser:http://localhost:4200/
+
+9-nasbe bulma :  
+dar "cmd dakhele VS-code"  ya dar "cmd addi" 
+npm install bulma
+
+
+9-1-bootstrap4:
+npm install bootstrap
+raftan be src/style.css
+@import 'dist/css/bootstrap.min.css';
+raftan be file node-module>yaftane bootstrap>r-click>get path>..."node-module/" az adres hazf shavad va "/"
+
+
+10.copy one line in vscode
+shift+Alt+ up
+shift+Alt+ Down
+
+11-bala pain bordane yek khat
+Alt+ up,down
+
+12-edit multiline
+ctrl+Alt + up,down
+
